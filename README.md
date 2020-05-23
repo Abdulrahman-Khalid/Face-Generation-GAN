@@ -7,11 +7,12 @@
 <h3 align="center">✔ Generative Adversarial Networks</h3>
 <div align="center">
 
-[![GitHub issues](https://img.shields.io/github/contributors/Abdulrahman-Khalid/Face-Generation-GAN/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/Abdulrahman-Khalid/Face-Generation-GAN/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Abdulrahman-Khalid/Face-Generation-GAN/network)
-[![GitHub stars](https://img.shields.io/github/stars/Abdulrahman-Khalid/Face-Generation-GAN/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Abdulrahman-Khalid/Face-Generation-GAN/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/contributors/Abdulrahman-Khalid/Face-Generation-GAN)](https://github.com/Abdulrahman-Khalid/Face-Generation-GAN/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/Abdulrahman-Khalid/Face-Generation-GAN)](https://github.com/Abdulrahman-Khalid/Face-Generation-GAN/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Abdulrahman-Khalid/Face-Generation-GAN)](https://github.com/Abdulrahman-Khalid/Face-Generation-GAN/network)
+[![GitHub stars](https://img.shields.io/github/stars/Abdulrahman-Khalid/Face-Generation-GAN)](https://github.com/Abdulrahman-Khalid/Face-Generation-GAN/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Abdulrahman-Khalid/Face-Generation-GAN)](https://github.com/Abdulrahman-Khalid/Face-Generation-GAN/blob/master/LICENSE)
+
 
 </div>
 
@@ -35,4 +36,4 @@ This project, uses generative adversarial networks to generate new images of fac
 ## 🎉🎈 Deep Learning Nano-Degree Certificate
 
 
-![Abdulrahman-Deep-Learning-Nano-Degree-Certificate]()
+![Abdulrahman-Deep-Learning-Nano-Degree-Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/40f48cb6-ea3e-40e5-964f-4bd0aef1e9d6.svg)
