@@ -18,19 +18,24 @@
 
 ## 📝 About This Nano-Degree
 
-Become an expert in neural networks, and learn to implement them using the deep learning framework PyTorch. Build convolutional networks for image recognition, recurrent networks for sequence generation, generative adversarial networks for image generation, and learn how to deploy models accessible from a website.
+The Deep Learning Nanodegree program offers you a solid introduction to the world of artificial intelligence. In this program, you’ll master fundamentals that will enable you to go further in the field, launch or advance a career, and join the next generation of deep learning talent that will help define a beneficial, new, AI-powered future for our world. You will study cutting-edge topics such as Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, and Network Deployment, and build projects in PyTorch and NumPy. You’ll learn from authorities such Ian Goodfellow and Jun-Yan Zhu, inventors of types of generative adversarial networks, as well as AI experts, Sebastian Thrun and Andrew Trask. For anyone interested in this transformational technology, this program is an ideal point-of-entry. The program is comprised of 5 courses and 5 projects. Each project you build will be an opportunity to prove your skills and demonstrate what you’ve learned in your lessons.
 
 -----------------------------------------------------------------------------------------------------------------------
 ## 📝 About This Course
 ### 🌟 Generative Adversarial Networks
 
-This course is part of udacity deep learning nano-degree program in which you canearn to understand and implement a Deep Convolutional GAN (generative adversarial network) to generate realistic images, with Ian Goodfellow, the inventor of GANs, and Jun-Yan Zhu, the creator of CycleGANs.
+This course is part of udacity deep learning nano-degree program in which you can Learn to understand and implement a Deep Convolutional GAN (generative adversarial network) to generate realistic images, with Ian Goodfellow, the inventor of GANs, and Jun-Yan Zhu, the creator of CycleGANs.
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## 📝 About This Project
-### ✔ Face Generation with PyTorch
+### ✔ Generate Faces
 
-This project, uses generative adversarial networks to generate new images of faces.
+Learn to understand Generative Adversarial Networks with the
+model’s inventor, Ian Goodfellow. Then, apply what you’ve learned
+in this project and implement a Deep Convolutional GAN. This
+DCGAN is made of a pair of multi-layer neural networks that
+compete against each other until one learns to generate realistic
+images of faces.
 
 -----------------------------------------------------------------------------------------------------------------------
 ## 🎉🎈 Deep Learning Nano-Degree Certificate
